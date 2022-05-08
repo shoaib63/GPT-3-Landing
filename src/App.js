@@ -4,8 +4,8 @@ import Footer from "./containers/footer/Footer.js"
 import Blog from "./containers/blog/Blog.js"
 import Possibility from "./containers/possibility/Possibility.js"
 import Features from "./containers/features/Features.js"
-import WhatGPT3 from "./containers/whatGPT3/WhatGPT3.js"
 import Header from "./containers/header/Header.js"
+import WhatGPT3 from "./containers/whatGPT3/WhatGPT3.jsx"
 
 
 // Components
